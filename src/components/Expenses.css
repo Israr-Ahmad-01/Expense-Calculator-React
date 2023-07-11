@@ -1,0 +1,18 @@
+.expenses {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: rgb(68, 68, 68);
+  padding: 60px 20px;
+  margin: 20px;
+}
+.update_button {
+  background-color: rgb(87, 205, 205);
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 700;
+border-radius: 10px;
+}
+button:focus{
+    background-color: blue;
+}
